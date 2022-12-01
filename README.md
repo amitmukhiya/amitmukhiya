@@ -3,8 +3,8 @@
 
 ## I'm an Engineering student!
 
-- 🌱 I’m currently learning React and Data Structure.
-- 👯 I’m looking for an internship in Software Development/Web Development.
+- 🌱 I’m currently learning React nNative and Next.js.
+- 👯 I’m looking for FTE in Software Development/Web Development.
 - 🥅 2022 Goals: Work on some Projects, improve my coding skills and get a job at tech company.
 - ⚡ Fun fact: I'm a good painter and i love to watch cricket!!!
 
