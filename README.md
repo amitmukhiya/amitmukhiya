@@ -1,8 +1,5 @@
 ### Hi there, I'm Amit 👋 
 
-
-## I'm an Engineering student!
-
 - 🌱 Learning...
 
 
